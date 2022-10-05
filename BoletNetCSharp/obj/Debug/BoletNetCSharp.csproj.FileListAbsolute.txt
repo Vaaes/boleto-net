@@ -1,0 +1,15 @@
+D:\__ESTUDOS__\Boleto.NET\BoletNetCSharp\BoletNetCSharp\bin\Debug\BoletNetCSharp.exe.config
+D:\__ESTUDOS__\Boleto.NET\BoletNetCSharp\BoletNetCSharp\bin\Debug\BoletNetCSharp.exe
+D:\__ESTUDOS__\Boleto.NET\BoletNetCSharp\BoletNetCSharp\bin\Debug\BoletNetCSharp.pdb
+D:\__ESTUDOS__\Boleto.NET\BoletNetCSharp\BoletNetCSharp\bin\Debug\Boleto2Net.dll
+D:\__ESTUDOS__\Boleto.NET\BoletNetCSharp\BoletNetCSharp\bin\Debug\NReco.PdfGenerator.dll
+D:\__ESTUDOS__\Boleto.NET\BoletNetCSharp\BoletNetCSharp\bin\Debug\Boleto2Net.pdb
+D:\__ESTUDOS__\Boleto.NET\BoletNetCSharp\BoletNetCSharp\bin\Debug\NReco.PdfGenerator.xml
+D:\__ESTUDOS__\Boleto.NET\BoletNetCSharp\BoletNetCSharp\obj\Debug\BoletNetCSharp.csproj.AssemblyReference.cache
+D:\__ESTUDOS__\Boleto.NET\BoletNetCSharp\BoletNetCSharp\obj\Debug\BoletNetCSharp.Form1.resources
+D:\__ESTUDOS__\Boleto.NET\BoletNetCSharp\BoletNetCSharp\obj\Debug\BoletNetCSharp.Properties.Resources.resources
+D:\__ESTUDOS__\Boleto.NET\BoletNetCSharp\BoletNetCSharp\obj\Debug\BoletNetCSharp.csproj.GenerateResource.cache
+D:\__ESTUDOS__\Boleto.NET\BoletNetCSharp\BoletNetCSharp\obj\Debug\BoletNetCSharp.csproj.CoreCompileInputs.cache
+D:\__ESTUDOS__\Boleto.NET\BoletNetCSharp\BoletNetCSharp\obj\Debug\BoletNetCSharp.csproj.CopyComplete
+D:\__ESTUDOS__\Boleto.NET\BoletNetCSharp\BoletNetCSharp\obj\Debug\BoletNetCSharp.exe
+D:\__ESTUDOS__\Boleto.NET\BoletNetCSharp\BoletNetCSharp\obj\Debug\BoletNetCSharp.pdb
